@@ -46,6 +46,7 @@ Feature Scaling & Transformation techniques
 StandardScaler, MinMaxScaler, MaxAbsScaler, RobustScaler
 Introduction to train-test split & cross-validation
 Mini-project: preprocessing a dataset and evaluating a simple model
+https://t.co/OhTvSPwhw1
 
 Day 6
 Topics Learned:
