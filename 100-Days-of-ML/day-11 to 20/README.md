@@ -91,3 +91,4 @@ Feature Selection
 Feature Extraction (PCA etc.)
 Reflection:
 How LLMs deal with high dimensionality
+https://x.com/tk09090005/status/1995201379644985565
